@@ -79,11 +79,11 @@ Prompt: "Create a peaceful campsite setting in a lush green forest clearing duri
 
 
 Final Composite Image:
-![Successful Image Generation](Avataar-Assignment/generated_output.png)
+![Successful Image Generation](./generated_output.png)
 
 
 Zoom-Out Effect Video:
-![Zoom-Out Effect Video](/Users/nrawat/Downloads/Avataar2/Avataar-Assignment/output_video.mp4)
+![Zoom-Out Effect Video](./output_video.mp4)
 
 Conclusion
 This project demonstrates the power of AI-based image generation combined with dynamic object placement and video creation. By automating the process of integrating objects into AI-generated scenes, it offers an exciting way to create visually compelling images and videos.
